@@ -188,3 +188,34 @@ margin-right: 71px;
     margin-bottom: 30px;
     padding-right: 80px;
 }
+/* contact */
+.contact {
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 150px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.contact input[type="text"],input[type="email"],textarea{
+    margin-bottom: 24px;
+    border: 0;
+    padding: 18px 30px;
+    width: 100%;
+}
+input{
+height: 50px;
+}
+.contact-para{
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #474747;
+margin-bottom: 30px;
+margin-top: 20px;
+}
+.contact a{
+    text-decoration: none;
+    padding-right: 10px;
+}
